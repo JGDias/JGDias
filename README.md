@@ -1,6 +1,6 @@
 ### Hello!! Eu sou o João 😁
 
-- 🔭 Currently an Data Intern at Banco Inter
+- 🔭 Currently an Data Intern at Inter
 - 📫 Contact me at: jg.dias99@hotmail.com
 
   ##
