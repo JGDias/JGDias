@@ -1,6 +1,6 @@
 ### Hello!! Eu sou o João 😁
 
-- 🔭 Currently an Data Intern at Inter
+- 🔭 Currently a Data Engineering Intern at Inter
 - 📫 Contact me at: jg.dias99@hotmail.com
 
   ##
